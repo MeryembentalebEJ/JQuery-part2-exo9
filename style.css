@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap'); /* for the paragraph*/
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');/* for the h1*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Ranchers', cursive;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 5px;
+    align-items: center;
+}
+div{
+    font-family: 'Rancho', cursive;
+    font-size: 2em;
+}
